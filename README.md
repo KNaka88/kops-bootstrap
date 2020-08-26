@@ -1,5 +1,5 @@
 # kops-bootstrap
-AWS Cloudformation Template that creates S3 Bucket and EC2 Instance with [kops](https://github.com/kubernetes/kops) and (kubectl)[https://kubernetes.io/docs/reference/kubectl/kubectl/]
+AWS Cloudformation Template that creates S3 Bucket and EC2 Instance with [kops](https://github.com/kubernetes/kops) and [kubectl](https://kubernetes.io/docs/reference/kubectl/kubectl/)
 
 ### This template does followings for you
 * EC2 Instance that installs followings
